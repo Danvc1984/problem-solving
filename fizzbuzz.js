@@ -1,3 +1,5 @@
+// Given a number return Fizz for multiples of 3 Buzz for multiples of 5 FizzBuzz for multiples of both or the number if none applies.
+
 const fizzBuzz = (n) => {
   let result = [];
 
@@ -12,3 +14,4 @@ const fizzBuzz = (n) => {
 };
 
 console.log(fizzBuzz(15));
+console.log(fizzBuzz(30));
