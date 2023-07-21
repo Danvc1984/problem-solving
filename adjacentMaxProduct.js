@@ -1,4 +1,4 @@
-// Given an array of numbers determine and return the max product from adjacent numbers.
+// Given an array of numbers determine and return the max product from adjacent numbers.|
 
 function adjacentElementsProduct(inputArray) {
   let maxAdjacent = inputArray[0] * inputArray[1];

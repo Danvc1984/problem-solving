@@ -8,3 +8,5 @@ function solution(year) {
   }
   return centuryCount;
 }
+
+console.log(solution(2314));
